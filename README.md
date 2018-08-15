@@ -6,6 +6,6 @@
 
 直接引入js文件
 
-```
+```html
 <script src="particle.js"></script>
 ```
